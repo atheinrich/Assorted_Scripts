@@ -1,3 +1,6 @@
+# Update
+Most of everything below is obsolete. I like to use this repository as a personal cloud, so check each script for documentation.
+
 # Assorted_Scripts
 An assortment of small projects and simulations that I work on occasionally.
 
